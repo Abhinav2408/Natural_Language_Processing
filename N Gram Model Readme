@@ -1,0 +1,2 @@
+The N gram model is trained on Harry Potter Corpus and generates sentences based on ngrams learnt.
+Applied various smoothing methods, along with perplexity calculation.
